@@ -62,6 +62,8 @@ unit_myPow = do
     myPow 23 0 @?= 1
     myPow 2 10 @?= 1024
     myPow 2 5 @?= 32
+    myPow (-2) 2 @?= 4
+    myPow (-2) 5 @?= (-32)
 
 prop_myPow =
     zeroExp .&&. oneExp .&&. general
