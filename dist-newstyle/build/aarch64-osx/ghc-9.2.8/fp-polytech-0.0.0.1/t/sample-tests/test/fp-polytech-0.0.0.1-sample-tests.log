@@ -1,0 +1,52 @@
+Test suite sample-tests: RUNNING...
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmySin[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmySin[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyCos[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyCos[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyGCD[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyGCD[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98misDateCorrect[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98misDateCorrect[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyPow[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyPow[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98misPrime[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mshapeArea[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mshapeArea[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart1.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mtriangleKind[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart2.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mterm ops[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart2.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mreplaceVar[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart2.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mevaluate[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart3.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mfinc[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart3.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mff[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart3.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmostFreq[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart3.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98muniq[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart3.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mgrokBy[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mshow[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mshow[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98meq[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98meq[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmonoid[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmonoid[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mfunctor[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mapplicative[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mapplicative[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart4.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmonad[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFoldl[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFoldl[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFoldr[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFoldr[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyMap[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyMap[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyConcatMap[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyConcatMap[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyReverse[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyReverse[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyConcat[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyConcat[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFilter[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyFilter[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart5.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mmyPartition[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart6.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98meye[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+[0m[48m[98mPart6.Tests[0m[0m[0m[0m[48m[98m.[0m[0m[0m[0m[48m[98mzero[0m[0m[0m[0m[48m[98m: [0m[0m[0m[0m[48m[92mSUCCESSFUL[0m[0m[0m
+Test suite sample-tests: PASS
+Test suite logged to: /Users/ebelekhov/dev/itmo/hs-poly-test-repo/dist-newstyle/build/aarch64-osx/ghc-9.2.8/fp-polytech-0.0.0.1/t/sample-tests/test/fp-polytech-0.0.0.1-sample-tests.log

@@ -28,7 +28,7 @@ test-suite sample-tests
   build-depends:
     base,
     safe-exceptions,
-    tasty,
+    tasty < 1.5,
     tasty-hunit,
     tasty-quickcheck,
     tasty-discover,
